@@ -4,3 +4,4 @@ whitenoise==6.4.0
 psycopg2-binary==2.9.6
 python-dotenv==1.0.0
 python-decouple==3.8
+django-browser-reload==1.11
